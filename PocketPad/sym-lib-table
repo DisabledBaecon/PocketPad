@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "Keebio Parts")(type "Legacy")(uri "${KIPRJMOD}/Libraries/Schematics/Keebio-Components/keebio.lib")(options "")(descr ""))
+)
