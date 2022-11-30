@@ -1005,13 +1005,8 @@
       (net 12 "COL3") (pinfunction "F1") (pintype "input") (tstamp de9701f8-79d4-4caa-9761-83a1d64e99ae))
     (pad "29" thru_hole circle locked (at 13.97 -5.08 270) (size 1.7526 1.7526) (drill 1.0922) (layers *.Cu *.SilkS *.Mask)
       (net 20 "unconnected-(MCU1-Pad29)") (pinfunction "F0") (pintype "input") (tstamp 649e6b6b-edef-4eaf-ba7b-1b9d4b26e3f8))
-    (model "/Users/danny/Documents/proj/custom-keyboard/kicad-libs/3d_models/ArduinoProMicro.wrl"
-      (offset (xyz -13.96999979 -7.619999886 -5.841999912))
-      (scale (xyz 0.395 0.395 0.395))
-      (rotate (xyz 90 180 180))
-    )
     (model "${KIPRJMOD}/Libraries/3DModels/Arduino.3dshapes/sparkfun_pro_micro.x3d"
-      (offset (xyz 14 7 0))
+      (offset (xyz 14 7.75 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 90))
     )
