@@ -1916,7 +1916,7 @@
 
   (footprint "MountingHole:MountingHole_2.2mm_M2" (layer "F.Cu")
     (tedit 56D1B4CB) (tstamp adc84806-280f-4d7e-b96d-7de6ec17bc48)
-    (at 25.654 96.266)
+    (at 24.384 97.536)
     (descr "Mounting Hole 2.2mm, no annular, M2")
     (tags "mounting hole 2.2mm no annular m2")
     (attr exclude_from_pos_files exclude_from_bom)
@@ -1939,7 +1939,7 @@
 
   (footprint "MountingHole:MountingHole_2.2mm_M2" (layer "F.Cu")
     (tedit 56D1B4CB) (tstamp b0b4c685-c4d3-4553-890c-8acd141a1b25)
-    (at 94.742 36.83)
+    (at 96.012 35.814)
     (descr "Mounting Hole 2.2mm, no annular, M2")
     (tags "mounting hole 2.2mm no annular m2")
     (attr exclude_from_pos_files exclude_from_bom)
@@ -2147,25 +2147,25 @@
 
   (footprint "MountingHole:MountingHole_2.2mm_M2" (layer "F.Cu")
     (tedit 56D1B4CB) (tstamp bfdecb18-c749-4ae3-bccc-b78386507b0d)
-    (at 25.654 36.83)
+    (at 24.384 35.814)
     (descr "Mounting Hole 2.2mm, no annular, M2")
     (tags "mounting hole 2.2mm no annular m2")
     (attr exclude_from_pos_files exclude_from_bom)
     (fp_text reference "REF**" (at 0 -3.2) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 8512da3b-0e9a-4b75-b352-9fac7da975dc)
+      (tstamp 4c0ed21a-22cc-422b-a714-1de183167605)
     )
     (fp_text value "MountingHole_2.2mm_M2" (at 0 3.2) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 6e9fa9cb-5d3a-41a3-b251-e2b7beb8fe2c)
+      (tstamp 5bbf2d49-3ebf-42d2-afa4-870b915acbc6)
     )
     (fp_text user "${REFERENCE}" (at 0 0) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 01c88130-53d2-49e2-9f3e-d763bdac8cbd)
+      (tstamp 82967e8c-20ac-4b99-80c2-d472d772935d)
     )
-    (fp_circle (center 0 0) (end 2.2 0) (layer "Cmts.User") (width 0.15) (fill none) (tstamp 7ad990b6-0f80-4e49-ad30-73050785474e))
-    (fp_circle (center 0 0) (end 2.45 0) (layer "F.CrtYd") (width 0.05) (fill none) (tstamp 49651a26-dc66-42e8-9d9b-b34b3ab4aafa))
-    (pad "" np_thru_hole circle (at 0 0) (size 2.2 2.2) (drill 2.2) (layers F&B.Cu *.Mask) (tstamp 2eb65998-5c05-4d6d-a4f4-334a6713be3f))
+    (fp_circle (center 0 0) (end 2.2 0) (layer "Cmts.User") (width 0.15) (fill none) (tstamp 0bdd272f-91db-443f-bb9a-89a755cf1db4))
+    (fp_circle (center 0 0) (end 2.45 0) (layer "F.CrtYd") (width 0.05) (fill none) (tstamp 6f1e60ed-f3f4-47c2-ad97-1d9a93f8332b))
+    (pad "" np_thru_hole circle (at 0 0) (size 2.2 2.2) (drill 2.2) (layers F&B.Cu *.Mask) (tstamp b112f642-9f97-4492-a497-bae138961da4))
   )
 
   (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" (layer "F.Cu")
@@ -2469,25 +2469,25 @@
 
   (footprint "MountingHole:MountingHole_2.2mm_M2" (layer "F.Cu")
     (tedit 56D1B4CB) (tstamp d8f4dea2-6b9a-4a2f-bde7-68e56084040e)
-    (at 94.742 96.266)
+    (at 96.012 97.536)
     (descr "Mounting Hole 2.2mm, no annular, M2")
     (tags "mounting hole 2.2mm no annular m2")
     (attr exclude_from_pos_files exclude_from_bom)
     (fp_text reference "REF**" (at 0 -3.2) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp daca49e8-8cad-4021-99aa-b06584f657eb)
+      (tstamp b9843a0e-8773-4a4a-9deb-3d8bf70f0fea)
     )
     (fp_text value "MountingHole_2.2mm_M2" (at 0 3.2) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 6f2e9fbb-2c40-4586-93a0-5b636c27ef95)
+      (tstamp 4e1236ad-db40-4872-9a6f-65ffd1613e02)
     )
     (fp_text user "${REFERENCE}" (at 0 0) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 9fa5f53e-07ea-41d8-9d74-405f4f4a44c9)
+      (tstamp 53174cf0-f6ec-42b2-90c6-4ad204ca7e8a)
     )
-    (fp_circle (center 0 0) (end 2.2 0) (layer "Cmts.User") (width 0.15) (fill none) (tstamp 15a76018-e9a1-45b6-9d10-4b7705bd8cc7))
-    (fp_circle (center 0 0) (end 2.45 0) (layer "F.CrtYd") (width 0.05) (fill none) (tstamp 04c2bf68-0d09-4441-899c-bbec3acbbf29))
-    (pad "" np_thru_hole circle (at 0 0) (size 2.2 2.2) (drill 2.2) (layers *.Cu *.Mask) (tstamp d46b8524-384e-47ed-a7cf-297144f917c0))
+    (fp_circle (center 0 0) (end 2.2 0) (layer "Cmts.User") (width 0.15) (fill none) (tstamp b84c6276-85fb-4969-80e8-bc81b6f6da61))
+    (fp_circle (center 0 0) (end 2.45 0) (layer "F.CrtYd") (width 0.05) (fill none) (tstamp ee09f1b7-8350-4cea-854c-bad18e6f1875))
+    (pad "" np_thru_hole circle (at 0 0) (size 2.2 2.2) (drill 2.2) (layers *.Cu *.Mask) (tstamp bb78e911-b10b-468e-8195-725a05d56e31))
   )
 
   (footprint "Keebio:Switch_6x6x8.5" (layer "F.Cu")
@@ -2910,7 +2910,7 @@
     )
   )
 
-  (gr_rect (start 23.876 35.052) (end 96.774 98.044) (layer "Edge.Cuts") (width 0.1) (fill none) (tstamp b4354f73-7e91-468f-ab44-c0c23eeaf77d))
+  (gr_rect (start 22.606 34.036) (end 97.536 99.314) (layer "Edge.Cuts") (width 0.1) (fill none) (tstamp b4354f73-7e91-468f-ab44-c0c23eeaf77d))
 
   (segment (start 49.022 87.884) (end 49.022 90.088) (width 0.25) (layer "F.Cu") (net 3) (tstamp 1c8b1a21-1af4-4a3e-8fd5-c9a695e98cc6))
   (segment (start 49.022 90.088) (end 48.954 90.156) (width 0.25) (layer "F.Cu") (net 3) (tstamp 35bec3e6-f919-482b-88b6-56f45ca3a681))
