@@ -208,6 +208,11 @@
         9419e2ea-56e5-4b3a-99f7-c6186fd0d766
       )
     )
+    (model "${KIPRJMOD}/Libraries/3DModels/Switches/Switch_THT_6x6.step"
+      (offset (xyz 0 0.25 0))
+      (scale (xyz 0.1 0.1 0.1))
+      (rotate (xyz 0 0 90))
+    )
   )
 
   (footprint "Keebio:Switch_THT_6x6x8.5" (layer "F.Cu")
@@ -245,6 +250,11 @@
         85f93465-1dc5-4f5a-93ce-bdff96b9e532
         8961439f-889d-47d4-bb8b-752318814034
       )
+    )
+    (model "${KIPRJMOD}/Libraries/3DModels/Switches/Switch_THT_6x6.step"
+      (offset (xyz 0 0.25 0))
+      (scale (xyz 0.1 0.1 0.1))
+      (rotate (xyz 0 0 90))
     )
   )
 
@@ -284,6 +294,11 @@
         d00ebc5a-3471-4afa-833c-9c52e2a7cb6b
       )
     )
+    (model "${KIPRJMOD}/Libraries/3DModels/Switches/Switch_THT_6x6.step"
+      (offset (xyz 0 0.25 0))
+      (scale (xyz 0.1 0.1 0.1))
+      (rotate (xyz 0 0 90))
+    )
   )
 
   (footprint "Keebio:Switch_THT_6x6x8.5" (layer "F.Cu")
@@ -321,6 +336,11 @@
         9c88ed90-e985-4623-b817-9584d8a00c28
         a92fc4ad-b594-46b0-aba1-7c59e95141bc
       )
+    )
+    (model "${KIPRJMOD}/Libraries/3DModels/Switches/Switch_THT_6x6.step"
+      (offset (xyz 0 0.25 0))
+      (scale (xyz 0.1 0.1 0.1))
+      (rotate (xyz 0 0 90))
     )
   )
 
@@ -360,6 +380,11 @@
         9d39224b-283e-45f6-be6d-f219c723b50d
       )
     )
+    (model "${KIPRJMOD}/Libraries/3DModels/Switches/Switch_THT_6x6.step"
+      (offset (xyz 0 0.25 0))
+      (scale (xyz 0.1 0.1 0.1))
+      (rotate (xyz 0 0 90))
+    )
   )
 
   (footprint "Keebio:Switch_THT_6x6x8.5" (layer "F.Cu")
@@ -397,6 +422,11 @@
         556a8808-2a53-45c4-b221-e97f2576e658
         77f51e85-0a9c-4b20-a3fd-acf56aacab83
       )
+    )
+    (model "${KIPRJMOD}/Libraries/3DModels/Switches/Switch_THT_6x6.step"
+      (offset (xyz 0 0.25 0))
+      (scale (xyz 0.1 0.1 0.1))
+      (rotate (xyz 0 0 90))
     )
   )
 
@@ -692,6 +722,11 @@
         e54550fa-4302-48bb-8dc6-c62d25280a31
       )
     )
+    (model "${KIPRJMOD}/Libraries/3DModels/Switches/Switch_THT_6x6.step"
+      (offset (xyz 0 0.25 0))
+      (scale (xyz 0.1 0.1 0.1))
+      (rotate (xyz 0 0 90))
+    )
   )
 
   (footprint "Keebio:Switch_THT_6x6x8.5" (layer "F.Cu")
@@ -730,6 +765,11 @@
         adf5c60f-c87b-4fc7-9e8e-8deff7c56ccf
       )
     )
+    (model "${KIPRJMOD}/Libraries/3DModels/Switches/Switch_THT_6x6.step"
+      (offset (xyz 0 0.25 0))
+      (scale (xyz 0.1 0.1 0.1))
+      (rotate (xyz 0 0 90))
+    )
   )
 
   (footprint "Keebio:Switch_THT_6x6x8.5" (layer "F.Cu")
@@ -767,6 +807,11 @@
         e7abdf0b-5f46-4ca3-a69c-e56259d9e188
         ecf9424d-4430-42e6-9758-7ae7df6b4ca8
       )
+    )
+    (model "${KIPRJMOD}/Libraries/3DModels/Switches/Switch_THT_6x6.step"
+      (offset (xyz 0 0.25 0))
+      (scale (xyz 0.1 0.1 0.1))
+      (rotate (xyz 0 0 90))
     )
   )
 
@@ -1219,10 +1264,10 @@
       (net 13 "COL0") (pinfunction "F1") (pintype "input") (tstamp 1e9ffe91-8083-486d-9cd2-96a21b433ef4))
     (pad "29" thru_hole circle locked (at 13.97 -5.08 270) (size 1.7526 1.7526) (drill 1.0922) (layers *.Cu *.SilkS *.Mask)
       (net 17 "unconnected-(MCU1-Pad29)") (pinfunction "F0") (pintype "input") (tstamp bf791f1f-6b00-43df-83bd-98553ef06042))
-    (model "/Users/danny/Documents/proj/custom-keyboard/kicad-libs/3d_models/ArduinoProMicro.wrl"
-      (offset (xyz -13.96999979 -7.619999886 -5.841999912))
-      (scale (xyz 0.395 0.395 0.395))
-      (rotate (xyz 90 180 180))
+    (model "${KIPRJMOD}/Libraries/3DModels/Arduino.3dshapes/sparkfun_pro_micro.x3d"
+      (offset (xyz 14 7.75 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 90))
     )
   )
 
@@ -1669,6 +1714,11 @@
         d5034042-ad13-448b-8b2e-0165e7f4235e
       )
     )
+    (model "${KIPRJMOD}/Libraries/3DModels/Switches/Switch_THT_6x6.step"
+      (offset (xyz 0 0.25 0))
+      (scale (xyz 0.1 0.1 0.1))
+      (rotate (xyz 0 0 90))
+    )
   )
 
   (footprint "Keebio:Switch_THT_6x6x8.5" (layer "F.Cu")
@@ -1706,6 +1756,11 @@
         88f306f9-2be1-4c25-9af5-432fc3622ce3
         ed3ce951-5792-4b2e-bee8-bdcc8463eb06
       )
+    )
+    (model "${KIPRJMOD}/Libraries/3DModels/Switches/Switch_THT_6x6.step"
+      (offset (xyz 0 0.25 0))
+      (scale (xyz 0.1 0.1 0.1))
+      (rotate (xyz 0 0 90))
     )
   )
 
@@ -1767,6 +1822,11 @@
         67ebf5e1-f775-49ce-b3ff-f3994fbf0182
         b5a70ba4-f0c1-43d3-bd34-3505bbf34b06
       )
+    )
+    (model "${KIPRJMOD}/Libraries/3DModels/Switches/Switch_THT_6x6.step"
+      (offset (xyz 0 0.25 0))
+      (scale (xyz 0.1 0.1 0.1))
+      (rotate (xyz 0 0 90))
     )
   )
 
@@ -1964,6 +2024,11 @@
         84c149f2-9822-4024-a976-03a81cb6e0bf
       )
     )
+    (model "${KIPRJMOD}/Libraries/3DModels/Switches/Switch_THT_6x6.step"
+      (offset (xyz 0 0.25 0))
+      (scale (xyz 0.1 0.1 0.1))
+      (rotate (xyz 0 0 90))
+    )
   )
 
   (footprint "Keebio:Switch_THT_6x6x8.5" (layer "F.Cu")
@@ -2001,6 +2066,11 @@
         a3aefc79-ce84-4f01-be23-71e326c9e225
         d5b57a4b-a562-470d-bd72-ce8ef4eb15d8
       )
+    )
+    (model "${KIPRJMOD}/Libraries/3DModels/Switches/Switch_THT_6x6.step"
+      (offset (xyz 0 0.25 0))
+      (scale (xyz 0.1 0.1 0.1))
+      (rotate (xyz 0 0 90))
     )
   )
 
@@ -2191,6 +2261,11 @@
         d86368ea-55e4-4f2b-92be-7bd5f442c159
       )
     )
+    (model "${KIPRJMOD}/Libraries/3DModels/Switches/Switch_THT_6x6.step"
+      (offset (xyz 0 0.25 0))
+      (scale (xyz 0.1 0.1 0.1))
+      (rotate (xyz 0 0 90))
+    )
   )
 
   (footprint "MountingHole:MountingHole_2.2mm_M2" (layer "F.Cu")
@@ -2251,6 +2326,11 @@
         b87225e4-8d65-4ab2-815a-5eb28acecb27
         c9ad4d44-7016-4551-bf6a-7635d0b8b34b
       )
+    )
+    (model "${KIPRJMOD}/Libraries/3DModels/Switches/Switch_THT_6x6.step"
+      (offset (xyz 0 0.25 0))
+      (scale (xyz 0.1 0.1 0.1))
+      (rotate (xyz 0 0 90))
     )
   )
 
@@ -2482,6 +2562,11 @@
         b29b81ec-1e3f-4ac1-b60f-aea00147fcd5
       )
     )
+    (model "${KIPRJMOD}/Libraries/3DModels/Switches/Switch_THT_6x6.step"
+      (offset (xyz 0 0.25 0))
+      (scale (xyz 0.1 0.1 0.1))
+      (rotate (xyz 0 0 90))
+    )
   )
 
   (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" (layer "F.Cu")
@@ -2631,6 +2716,11 @@
         993c41e8-ac87-48d2-804c-2928bded556b
         9a0aa9ec-3fd3-4568-b6cb-27b3203b9b47
       )
+    )
+    (model "${KIPRJMOD}/Libraries/3DModels/Switches/Switch_THT_6x6.step"
+      (offset (xyz 0 0.25 0))
+      (scale (xyz 0.1 0.1 0.1))
+      (rotate (xyz 0 0 90))
     )
   )
 
